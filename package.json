@@ -1,0 +1,22 @@
+{
+  "name": "deduplicate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "De-duplicate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suparnac/deduplicate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suparnac/deduplicate/issues"
+  },
+  "homepage": "https://github.com/suparnac/deduplicate#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
