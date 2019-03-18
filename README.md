@@ -9,6 +9,7 @@ Run in console: npm install
 To see the working example, run in console: node src\de-duplicate.js
 
 Functions used:
+
 //1. getIdentifierSpecificValues('_id') returns a list of duplicate _ids and their respective indices/position where they occur;
  
 //2. filterWithIdentifier(getDuplicateIds) filters out the duplicate values based on the latest date;
