@@ -3,7 +3,9 @@ De-duplicate a JSON set.
 
 
 To clone the repository, run this in command in the console: git clone https://github.com/suparnac/deduplicate.git
+
 Run in console: npm install
+
 To see the working example, run in console: node src\de-duplicate.js
 
 Functions used:
